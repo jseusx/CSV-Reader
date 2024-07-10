@@ -5,7 +5,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 
 public class Main {
-    //Add path for .ser file here:
+    //Add path for .ser file here. (HashMap):
     private static final String HASHMAP_FILE = "";
 
 	@SuppressWarnings("unused")
