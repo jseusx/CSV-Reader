@@ -24,10 +24,11 @@ public class HashMapReader {
 		System.out.println(tf.values());
 		
 		boolean flag = true;
-		
+
+		//Is used to add another key with its associated value.
 		while(flag)
 		{
-			System.out.println("Enter the key or press enter to exit");
+			System.out.println("Enter a key or press enter to exit");
 			String key = keyboard.nextLine();
 			//keyboard.nextLine();
 			
