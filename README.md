@@ -7,7 +7,7 @@ First, create a folder that will store your files. 3 will be used in total, your
 Using Apple School Manager (ASM), in devices input the desired serial numbers into the search menu. Then, download it to the folder you made previously.
 
 > [!NOTE]
-> Having a code editor can be helpful here.
+> Having a code editor is needed for setting the HASHMAP_FILE location.
 
 If you are comfortable editing code you can choose to change the file locations to make it permanent:
 ```java
