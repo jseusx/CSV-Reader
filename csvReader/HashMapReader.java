@@ -10,6 +10,7 @@ import java.io.ObjectOutputStream;
 import java.util.HashMap;
 
 public class HashMapReader {
+    //Add path for .ser file here. (HashMap):
     private static final String HASHMAP_FILE = "C:\\Users\\picka\\Downloads\\ipad CSV\\hashmap.ser";
 	
 	public static void main(String[] args) {
