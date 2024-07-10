@@ -5,7 +5,8 @@ import java.util.Scanner;
 import java.util.HashMap;
 
 public class Main {
-    private static final String HASHMAP_FILE = "C:\\Users\\picka\\Downloads\\ipad CSV\\hashmap.ser";
+    //Add path for .ser file here:
+    private static final String HASHMAP_FILE = "";
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
