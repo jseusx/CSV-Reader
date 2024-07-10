@@ -9,7 +9,7 @@ public class Main {
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
-		//input file and output
+		//input file and output here:
 		String fileName = "";
 		String outputFile = "";
 		Scanner keyboard = new Scanner(System.in);
